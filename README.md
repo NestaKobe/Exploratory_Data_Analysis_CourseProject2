@@ -15,7 +15,7 @@ Exploring the National Emissions Inventory database and see what it say about fi
 5. How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (\color{red}{\verb|fips == "06037"|}fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
-## Making a single plot for each question/task and save scripts/images as plot1.R, plot1.png, ..., plot6.R, plot6.png for:
+### Making a single plot for each question/task and save scripts/images as plot1.R, plot1.png, ..., plot6.R, plot6.png for:
 
 1. Total PM2.5 emissions in the United States from 1999 to 2008.
 2. Total PM2.5 emissions in Baltimore City, Maryland from 1999 to 2008.
