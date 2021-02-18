@@ -1,12 +1,12 @@
 # Exploratory Data Analysis Week 4 Assignment
 
-##Required data
+1. Required data
 Available from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip, containing the files summarySCC_PM25.rds and Source_Classification_Code.rds.
 
-##Assignment
+2. Assignment
 Exploring the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008.
 
-###Adressing the following questions:
+3. Adressing the following questions:
 
 1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, making a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 2. Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (\color{red}{\verb|fips == "24510"|}fips == "24510") from 1999 to 2008? Using the base plotting system to make a plot answering this question.
